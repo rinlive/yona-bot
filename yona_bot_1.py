@@ -32,8 +32,8 @@ CONFIG = {
     "max_price_yen": 0,
     "min_price_yen": 500,
     "check_interval_minutes": 5,
-    "seen_file": os.path.expanduser("~/Desktop/yona_seen_ids.json"),
-    "log_file":  os.path.expanduser("~/Desktop/yona_bot.log"),
+    "seen_file": "yona_seen_ids.json",
+    "log_file":  "yona_bot.log",
     "discord_webhook": "https://discord.com/api/webhooks/1504840131239215105/ltRYoFVrRSR3CHRXXeLjDy0Ers2eIbyUxlwgt8qcIMnTuq0OmxsBLUq4n2deuUlMxhNC",
 }
 # ──────────────────────────────────────────────
